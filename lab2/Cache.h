@@ -6,6 +6,7 @@
 #define DRAM_SIZE (1024 * BLOCK_SIZE) // in bytes
 #define L1_SIZE (256 * BLOCK_SIZE)      // in bytes
 #define L2_SIZE (512 * BLOCK_SIZE)    // in bytes
+#define L2_ASSOCIATIVTY 2
 
 #define MODE_READ 1
 #define MODE_WRITE 0
