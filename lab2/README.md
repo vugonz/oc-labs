@@ -1,2 +1,0 @@
-Each cache implementation has a tests subfolder. Tests can be built running `make` and run using `make test` in each task directory.
-Test source files are messy, and some aren't even finished, they were used mostly for debugging and not really for unit testing based development because there aint no time for that jazz in this school, which prefers its students live off of caffeine, sleep deprivation and hopes of finishing the school year without depression and anxiety 
